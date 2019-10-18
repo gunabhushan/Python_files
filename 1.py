@@ -12,4 +12,4 @@ s = 4
 
 result = fn(s)
 
-print(result)
+print(result)  
